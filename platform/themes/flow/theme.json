@@ -1,0 +1,8 @@
+{
+    "name": "Flow",
+    "namespace": "Theme\\Flow\\",
+    "description": "Flow - Personal Blog theme",
+    "author": "TheSky9",
+    "version": "2.11.0",
+    "required_plugins": []
+}
